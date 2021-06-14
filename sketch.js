@@ -126,4 +126,5 @@ function restart(){
   fantasma.velocityY=0;
   fantasma.x=300;
   fantasma.y=600;
+  ////////////////////////
 }
